@@ -1,0 +1,1 @@
+https://github.com/f4exb/sdrangel/releases/download/v7.17.3/sdrangel-7.17.3-1-gd25944320-win64.exe
